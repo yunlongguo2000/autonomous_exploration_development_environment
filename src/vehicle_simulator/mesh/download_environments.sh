@@ -18,7 +18,7 @@ echo ""
 
 unzip "${filename}"
 
-rm "${filename}"
+# rm "${filename}"
 
 echo ""
 echo "Done, simulation environments are kept in 'src/vehicle_simulator/mesh'."
